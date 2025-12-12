@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Crop Doctor AI",
+  "description": "AI-powered plant disease diagnosis and agri-tech assistant for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
